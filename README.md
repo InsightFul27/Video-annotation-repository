@@ -1,2 +1,2 @@
-# Video-annotation-repository
+# Video-annotation-portfolio
 Portfolio showcasing video annotation, temporal segmentation, shot boundary detection, and AI training data labeling projects.
