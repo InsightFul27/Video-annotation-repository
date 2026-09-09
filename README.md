@@ -28,7 +28,7 @@ Video Review → Temporal Segmentation → Action Labeling → Quality Review �
 
 The following screenshot shows an example of the video annotation interface used during the Atlas project.
 
-![Atlas Video Annotation Interface](IMG_20260909_095502_862.png,image-1.png)
+![Atlas Video Annotation Interface](IMG_20260909_095502_862.png)
 
 ## Shot Boundary Detection — Practice Project
 
